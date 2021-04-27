@@ -36,6 +36,6 @@
   },
   "peerDependencies": {
     "react-native": "*",
-    "react-native-windows": "*"
+    "react-native-windows": "^0.57.2"
   }
 }
